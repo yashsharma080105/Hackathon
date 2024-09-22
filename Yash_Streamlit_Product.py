@@ -94,7 +94,7 @@ with news:
 #
 # if prompt := st.chat_input():
 #     if not openai_api_key:
-#         st.info("sk-JDop2XxWwhz2_LtA4G38Ll_s9Y3wCrknmdc_oFBTUiT3BlbkFJ041h7tVC7tuz3905iTDvFIWtZFQ9HuMQaQvON67MMA")
+#         st.info("api key")
 #         st.stop()
 #
 #     openai.api_key = openai_api_key
